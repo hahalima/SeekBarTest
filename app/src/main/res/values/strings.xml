@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SeekBarTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">On a scale from 1-10, how cool are you?</string>
+    <string name="coolness">Coolness: </string>
+</resources>
